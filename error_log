@@ -1,0 +1,3 @@
+[24-Sep-2016 07:11:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gkrgedon/public_html/adaevent/services/registration.php on line 20
+[24-Sep-2016 07:13:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gkrgedon/public_html/adaevent/services/registration.php on line 29
+[24-Sep-2016 07:13:48 UTC] PHP Fatal error:  Call to undefined method mysqli::lastInsertId() in /home/gkrgedon/public_html/adaevent/services/registration.php on line 23
